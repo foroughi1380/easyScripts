@@ -9,7 +9,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/foroughi1380/easyScripts/maste
 ```
 
 ### Automatic
-donlowd script on you system
+donlowd script on your system
 
 #### server
 ```shell
