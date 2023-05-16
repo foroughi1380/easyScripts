@@ -11,13 +11,17 @@ bash <(curl -Ls https://raw.githubusercontent.com/foroughi1380/easyScripts/maste
 ### Automatic
 donlowd script on your system
 
+```shell
+wget https://raw.githubusercontent.com/foroughi1380/easyScripts/master/vbs.sh && chmod +x ./vbs.sh
+```
+
 #### server
 ```shell
-vbs.sh -s [new ssh port] -b -x
+./vbs.sh -s [new ssh port] -b -x
 ```
 
 #### bridge
 
 ```shell
-vbs.sh -s [new ssh port] -b -p [bridge ip] [destination server ip] 
+./vbs.sh -s [new ssh port] -b -p [bridge ip] [destination server ip] 
 ```
