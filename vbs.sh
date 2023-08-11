@@ -133,7 +133,7 @@ function installBBR {
 }
 
 function installXUI {
-  bash <(curl -Ls https://raw.githubusercontent.com/HexaSoftwareTech/x-ui/master/install.sh)
+  bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 }
 
 function checkParameters {
